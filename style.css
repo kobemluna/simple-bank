@@ -1,0 +1,21 @@
+.container{
+    margin: 5px 80px;
+    display: flex;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    border: 5px solid black;
+    background-color: lightgray;
+}
+
+th {
+    text-align: left;
+}
+
+caption {
+    text-align: center;
+}
+
+
